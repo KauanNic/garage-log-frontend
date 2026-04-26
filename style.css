@@ -111,3 +111,9 @@ header p {
 .hidden {
   display: none !important;
 }
+
+/* Ajuste da cor do texto de exemplo (placeholder) */
+.form-control::placeholder {
+  color: #888 !important; 
+  opacity: 1 !important; /* Garante que o navegador não deixe o texto transparente */
+}
