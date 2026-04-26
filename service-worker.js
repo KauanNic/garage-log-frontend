@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pet-diary-cache-v1';
+const CACHE_NAME = 'garage-log-cache-v2'
 const APP_FILES = [
   './',
   './index.html',
