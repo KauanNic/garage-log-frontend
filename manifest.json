@@ -1,0 +1,21 @@
+{
+  "name": "Garage Log",
+  "short_name": "GarageLog",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#212529",
+  "description": "Aplicativo para gerenciar a garagem, registrar manutenções e modificações em veículos.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
